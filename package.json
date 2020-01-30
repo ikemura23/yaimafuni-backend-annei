@@ -1,0 +1,24 @@
+{
+  "name": "yaimafuni-backend-annei",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikemura23/yaimafuni-backend-annei.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikemura23/yaimafuni-backend-annei/issues"
+  },
+  "homepage": "https://github.com/ikemura23/yaimafuni-backend-annei#readme"
+}
